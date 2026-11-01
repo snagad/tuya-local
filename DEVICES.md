@@ -1067,6 +1067,7 @@ of device.
 - Dongguan LY1678-2 curtain robot
 - Dooya curtain motor
 - Eachen GD-DC5 garage door opener
+- Emteco roller blind
 - Eruiklink curtain motor
 - Etersky curtain switch with backlight and timing control
 - Fakro ARZ roof blind
